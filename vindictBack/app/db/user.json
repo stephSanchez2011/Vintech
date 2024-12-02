@@ -1,0 +1,26 @@
+[
+    {
+        "name": "Hedy Lamarr",
+        "job": "tech",
+        "image": "https://i.imgur.com/yXOvdOSs.jpg",
+        "birthDate": "2020-01-01",
+        "phone": "06666666",
+        "email": "test@email.com"
+    },
+    {
+        "name": "Akhi Tmetik",
+        "job": "tech",
+        "image": "https://i.imgur.com/yXOvdOSs.jpg",
+        "birthDate": "2020-01-01",
+        "phone": "06666666",
+        "email": "test@email.com"
+    },
+    {
+        "name": "Akhi pute",
+        "job": "tech",
+        "image": "https://i.imgur.com/yXOvdOSs.jpg",
+        "birthDate": "2020-01-01",
+        "phone": "06666666",
+        "email": "test@email.com"
+    }
+]
